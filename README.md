@@ -1,8 +1,8 @@
 # The Hero of JavaScript
 
-A simple game made with Vanilla JS and HTML5 Canvas designed to teach the basics of browser game creation.
+A simple game made with Vanilla JS and HTML5 Canvas designed to teach the basics of browser game development for a 25 minute tech talk.
 
-Will be presented at [Code Chrysalis](https://www.codechrysalis.io)'s [Big MiniConf](https://www.meetup.com/CodeChrysalis/events/268080130/) on Saturday, February 29, 2020.
+Presented at [Code Chrysalis](https://www.codechrysalis.io)'s [Big MiniConf](https://www.meetup.com/CodeChrysalis/events/268080130/) on Saturday, February 29, 2020. Check out a recording of the talk [here](https://youtu.be/doq3p1wKBvo?t=14662)!
 
 Should probably be called "The Hero of Late Capitalism".
 
